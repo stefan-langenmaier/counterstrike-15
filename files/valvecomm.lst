@@ -1,0 +1,36 @@
+// Server Lists
+//
+
+Auth
+{
+	hlauth.won2.steamlessproject.nl:27012
+//	half-life.east.won.net:7002 
+//	half-life.west.won.net:7002
+//	half-life.central.won.net:7002
+}
+
+Master
+{
+	zvdk.nl:27010
+	master.won2.steamlessproject.nl:27010
+	master2.won2.steamlessproject.nl:27010
+//	half-life.east.won.net:27010 
+//	half-life.west.won.net:27010
+//	half-life.central.won.net:27010	
+}
+
+Secure
+{
+//	half-life.speakeasy-nyc.hlauth.net:27012
+//	half-life.speakeasy-sea.hlauth.net:27012
+//	half-life.speakeasy-chi.hlauth.net:27012
+}
+
+ValveAuth
+{
+	hlauth.won2.steamlessproject.nl:27012
+//	valve-auth.east.valvesoftware.com:27040
+//	valve-auth.west.valvesoftware.com:27040
+}
+
+
