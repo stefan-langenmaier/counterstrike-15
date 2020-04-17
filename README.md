@@ -10,6 +10,8 @@ Copy the necessary files to files directory and run.
 
 `$ docker build . -t slangenmaier/counterstrike-15`
 
+The installation files are mirrored here: https://github.com/stefan-langenmaier/counterstrike-15/releases/tag/initial-release
+
 ## Caveats
 
 The hl boom fix is not enabled. It's segfaulting for me.
